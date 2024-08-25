@@ -1,5 +1,5 @@
 // APIキー（APIキーは削除しています）
-apiKey = 'ddbaf08feecb56297fd2f5b525d4ac47';
+apiKey = '';
 
 // dataクラスの要素を取得
 const weather = document.querySelector('.weather');
