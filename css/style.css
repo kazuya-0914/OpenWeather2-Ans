@@ -19,5 +19,5 @@
   color: white;
 }
 .weather-data div:nth-of-type(2n) {
-  background-color: whitesmoke;
+  background-color: lightblue;
 }
